@@ -1,0 +1,20 @@
+a:link#emailId {
+    color: #8c8c8c;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited#emailId {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover#emailId {
+    color: #0E76A8;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active#emailId {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}

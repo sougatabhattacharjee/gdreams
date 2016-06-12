@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gdreams:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="gdreams-educon-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gdreams:war exploded" />
+    </root>
+  </artifact>
+</component>

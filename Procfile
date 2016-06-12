@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar  target/gdreams-educon-1.0-SNAPSHOT.war
